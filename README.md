@@ -70,3 +70,37 @@
 		</tdbody>
 </table>
 </div>
+<table>
+<theader>
+<tr><th colspan="6">SOLUCION Y RESULTADOS</th></tr>
+</theader>
+<tbody>
+<tr><td colspan="6">I. SOLUCIÓN DE EJERCICIOS/PROBLEMAS
+    <h4>Repositorio Individual</h4>
+    <p><strong>*</strong> <a href="https://github.com/gabriel7529/Lab01">Repositorio Individual</a></p>
+    </td></tr>
+<tr><td colspan="6">II. TRABAJO REALIZADO
+<p>En este primer laboratorio se trabajo lo basico de Java como la estructura, la impresion y ademas de los comentarios. Todo esto con los ejemplos HolaMundo, Bienvenida y Nombre.</p>
+<p>Esta de mas decir que para realizarlo se uso GIT y todos los comandos para su uso como "git commit" "git status" "git push" etc. Ademas del editor vim</p>
+</td></tr>
+<tr><td colspan="6">III. CONCLUSIONES
+<p>Este laboratorio sirvio como base para empezar en la practica del uso Java.</p></td></tr>
+</table>
+<table>
+<theader>
+<tr><th colspan="6">RETROALIMENTACIÓN GENERAL</th></tr>
+</theader>
+<tbody>
+<tr><td colspan="6">
+<p>En este primer laboratorio se pudo ver comandos de git, como fueron, git init, git add, git commit -m, git remote y git push, que sirvieron para iniciar un repositorio local, añadir archivos al staging area y sincronizar el repositorio local con GitHub. Ademas que sirvio como Introduccion a Java</p></td></tr>
+</table>
+<table>
+<theader>
+<tr><th colspan="6">REFERENCIAS Y BIBLIOGRAFÍA</th></tr>
+</theader>
+<tbody>
+<tr><td colspan="6">
+<p>[1] "GitHub.com help documentation". GitHub Docs. https://guides.github.com/ (accedido el 28 de abril de 2022).</p>
+<p>[2] "Curso de W3Schools Java" https://www.w3schools.com/java/default.asp</p>
+</td></tr>
+</table>
