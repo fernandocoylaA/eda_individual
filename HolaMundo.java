@@ -6,6 +6,8 @@ public class HolaMundo{
 		/*Bienvenida al Curso*/
 		System.out.println("¡Bienvenidos al  Laboratorio de Estructura de Datos y Algoritmos!");
 
-		
+		/*Impresion del Nombre*/
+		System.out.print("Alumno: Fernando Jesus Coyla Alvarez");
+			
 	}
 }
