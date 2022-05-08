@@ -77,7 +77,7 @@
 <tbody>
 <tr><td colspan="6">I. SOLUCIÓN DE EJERCICIOS/PROBLEMAS
     <h4>Repositorio Individual</h4>
-    <p><strong>*</strong> <a href="https://github.com/gabriel7529/Lab01">Repositorio Individual</a></p>
+    <p><strong>*</strong> <a href="https://github.com/fernandocoylaA/eda_individual">Repositorio Individual</a></p>
     </td></tr>
 <tr><td colspan="6">II. TRABAJO REALIZADO
 <p>En este primer laboratorio se trabajo lo basico de Java como la estructura, la impresion y ademas de los comentarios. Todo esto con los ejemplos HolaMundo, Bienvenida y Nombre.</p>
